@@ -1,9 +1,9 @@
 <h1 align="left">Hello! My name is Dmitry Lavrinovich</h1>
 <h3 align="left">A FrontEnd JavaScript developer</h3>
 
-- 👔 Tech Stack **React, Redux, JavaScript/TypeScript, HTML5, CSS3/LESS/SASS**
+- 👔 Tech Stack: **React, Redux, JavaScript/TypeScript, HTML5, CSS3/LESS/SASS**
 
-- 🔭 Contact with me **https://t.me/dmlvr**
+- 🔭 Contact with me: **<a href="https://t.me/dmlvr">t.me/dmlvr</a>**
 
 <h2 align="left">About me:</h2>
 <ul>
@@ -37,10 +37,10 @@
   <a href="https://gulpjs.com/" target="_blank" rel="noreferrer">
     <img src="http://dmlvr.ru/temp/github-icons/gulp.svg" alt="gulp" width="40" height="40" />
   </a>
-  <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
-    <img src="http://dmlvr.ru/temp/github-icons/less.svg" alt="less" width="40" height="40" />
-  </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="http://dmlvr.ru/temp/github-icons/sass.svg" alt="sass" width="40" height="40" />
+  </a>
+  <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
+    <img src="http://dmlvr.ru/temp/github-icons/less.svg" alt="less" width="40" height="40" />
   </a>
 </p>
