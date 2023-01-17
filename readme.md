@@ -1,5 +1,5 @@
 <h1 align="left">Hello! My name is Dmitry Lavrinovich</h1>
-<h3 align="left">A FrontEnd JavaScript developer</h3>
+<h3 align="left">FrontEnd JavaScript developer</h3>
 
 - 👔 Tech Stack: **React, Redux, JavaScript/TypeScript, HTML5, CSS3/LESS/SASS**
 
