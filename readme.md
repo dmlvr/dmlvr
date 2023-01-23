@@ -9,7 +9,7 @@
 <ul>
   <li>Love learning new things and applying knowledge in practice;</li>
   <li>I can analyze the problem and find the best ways to solve it;</li>
-  <li>Understand the requirements of the business, as I have been working on the customer’s side for 8 years;</li>
+  <li>Understand the requirements of the business, as I have been working on the customer’s side for 6 years;</li>
   <li>Ready to create products focused on the needs of the client;</li>
   <li>I have been developing landing pages, websites and interfaces for 10 years (4 years as a developer, 6 years as a customer);</li>
 </ul>
